@@ -12,3 +12,7 @@ The scope of our project applies to anybody undergoing routine blood testing, as
 
 # Data Set
 The dataset is presented in a *.csv file and was found on Kaggle. It provides blood data for 614 patients, containing the following features: Age, Sex, Albumin(ALB), Alkaline Phosphatase(ALP), Alanine Transaminase(ALT), Aspartate Aminotransferase(AST), Bilirubin (BIL), Cholinesterase (CHE), Cholesterol (CHOL), Creatinine (CREA), Gama-Glutamyl Transferase (GGT), and Protein (PROT). The dataset was donated in July 2020 to UCI Machine Learning Repository. The dataset is reported to fairly represent males and females, slightly learning towards males. The distribution of ages is also reported to follow a bell-shaped curve, ranging from young adults to senior. As a result of the information being taken from a representative sample of the population, the date is significant and can be used to draw conclusions. The dataset is also reported to have missing values, which we must deal with before running our machine learning algorithm. We will be performing a replacement on missing data values with averages.
+
+Link: https://www.kaggle.com/busekseolu/hepatitis-c-patients-data-set
+
+# 
